@@ -1,13 +1,7 @@
 # algorithm
 **👩‍💻Algorithm study👩‍💻**
 
-💛 : less than 10m
-
-💙 : less than 30m
-
-🩷 : less than 1h
-
-❤️‍🔥 : should retry later
+💛 💙 🩷 ❤️‍🔥 
 
 LeetCode
 ========
@@ -23,6 +17,7 @@ LeetCode
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](./leetcode/791/customSortString.py)|Medium|💙|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python](./leetcode/1171/removeZeroSum.py)|Medium|❤️‍🔥|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./leetcode/621/taskScheduler.py)|Medium|❤️‍🔥|
+|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python](./leetcode/1669/mergeInBetweenLinkedList.py)|Medium|❤️‍🔥|
 
 
 

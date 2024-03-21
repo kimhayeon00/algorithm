@@ -18,6 +18,7 @@ LeetCode
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python](./leetcode/1171/removeZeroSum.py)|Medium|❤️‍🔥|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./leetcode/621/taskScheduler.py)|Medium|❤️‍🔥|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python](./leetcode/1669/mergeInBetweenLinkedList.py)|Medium|❤️‍🔥|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/reverseLinkedList.py)|Easy|💙|
 
 
 

@@ -24,6 +24,8 @@ Programmers
 ========
 
 ### Programmers Algorithm
+| # | Title | Solution | Difficulty | Check |
+|---| ----- | -------- | ---------- | ------| 
 |87946|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Python](./programmers/87946/dungeons.py)|2|💙|
 |86491|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [Python](./programmers/86491/wallet.py)|1|💛|
 |42839|[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [Python](./programmers/42839/findPrime.py)|2|💙|

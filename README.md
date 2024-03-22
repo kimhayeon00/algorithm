@@ -30,6 +30,7 @@ Programmers
 |86491|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [Python](./programmers/86491/wallet.py)|1|💛|
 |42839|[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [Python](./programmers/42839/findPrime.py)|2|💙|
 |42842|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [Python](./programmers/42842/yellowBrown.py)|2|💛|
+|86971|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [Python](./programmers/86971/devideLine.py)|2|❤️‍🔥|
 
 
 HackerRank

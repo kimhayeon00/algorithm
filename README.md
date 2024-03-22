@@ -20,7 +20,14 @@ LeetCode
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python](./leetcode/1669/mergeInBetweenLinkedList.py)|Medium|❤️‍🔥|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/reverseLinkedList.py)|Easy|💙|
 
+Programmers
+========
 
+### Programmers Algorithm
+|87946|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Python](./programmers/87946/dungeons.py)|2|💙|
+|86491|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [Python](./programmers/86491/wallet.py)|1|💛|
+|42839|[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [Python](./programmers/42839/findPrime.py)|2|💙|
+|42842|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [Python](./programmers/42842/yellowBrown.py)|2|💛|
 
 
 HackerRank

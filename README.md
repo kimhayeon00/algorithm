@@ -20,6 +20,7 @@ LeetCode
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python](./leetcode/1669/mergeInBetweenLinkedList.py)|Medium|❤️‍🔥|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/reverseLinkedList.py)|Easy|💙|
 |2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) | [Python](./leetcode/2958/lengthOfLongestSubarray.py)|Medium|❤️‍🔥|
+|2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2962/countSubarrayMax.py)|Medium|❤️‍🔥|
 
 Programmers
 ========

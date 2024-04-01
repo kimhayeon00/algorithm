@@ -21,7 +21,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/reverseLinkedList.py)|Easy|💙|
 |2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/) | [Python](./leetcode/2958/lengthOfLongestSubarray.py)|Medium|❤️‍🔥|
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2962/countSubarrayMax.py)|Medium|❤️‍🔥|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./leetcode/58/lenthOfLastWord.py)|Easy|💙|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./leetcode/58/lenthOfLastWord.py)|Easy|💛|
 
 Programmers
 ========

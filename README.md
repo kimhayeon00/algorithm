@@ -23,7 +23,7 @@ LeetCode
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2962/countSubarrayMax.py)|Medium|❤️‍🔥|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./leetcode/58/lenthOfLastWord.py)|Easy|💛|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Python](./leetcode/205/isomorphicString.py)|Easy|💙|
-|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | [Python](./leetcode/1823/findTheWinnerOfTheCircularGame.py)|Medium|💙|
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | [Python](./leetcode/1823/findTheWinnerOfTheCircularGame.py) [Swift](./leetcode/1823/findTheWinnerOfTheCircularGame.swift)|Medium|💙|
 
 Programmers
 ========

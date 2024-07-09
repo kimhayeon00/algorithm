@@ -24,6 +24,7 @@ LeetCode
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Python](./leetcode/58/lenthOfLastWord.py)|Easy|💛|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Python](./leetcode/205/isomorphicString.py)|Easy|💙|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | [Python](./leetcode/1823/findTheWinnerOfTheCircularGame.py) [Swift](./leetcode/1823/findTheWinnerOfTheCircularGame.swift)|Medium|💙|
+|1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09) | [Python](./leetcode/1701/averageWaitingTime.py) [Swift](./leetcode/1701/averageWaitingTime.swift)|Medium|💙|
 
 Programmers
 ========

@@ -25,6 +25,7 @@ LeetCode
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Python](./leetcode/205/isomorphicString.py)|Easy|💙|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | [Python](./leetcode/1823/findTheWinnerOfTheCircularGame.py) [Swift](./leetcode/1823/findTheWinnerOfTheCircularGame.swift)|Medium|💙|
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09) | [Python](./leetcode/1701/averageWaitingTime.py) [Swift](./leetcode/1701/averageWaitingTime.swift)|Medium|💙|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10) | [Python](./leetcode/1598/crawlerLogFolder.py) [Swift](./leetcode/1598/crawlerLogFolder.swift)|Easy|💙|
 
 Programmers
 ========

@@ -26,7 +26,7 @@ LeetCode
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | [Python](./leetcode/1823/findTheWinnerOfTheCircularGame.py) [Swift](./leetcode/1823/findTheWinnerOfTheCircularGame.swift)|Medium|💙|
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09) | [Python](./leetcode/1701/averageWaitingTime.py) [Swift](./leetcode/1701/averageWaitingTime.swift)|Medium|💙|
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10) | [Python](./leetcode/1598/crawlerLogFolder.py) [Swift](./leetcode/1598/crawlerLogFolder.swift)|Easy|💙|
-
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/380/insertDeleteGetRandom.py) [Swift](./leetcode/380/insertDeleteGetRandom.swift)|Easy|💙|
 Programmers
 ========
 

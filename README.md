@@ -28,6 +28,7 @@ LeetCode
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10) | [Python](./leetcode/1598/crawlerLogFolder.py) [Swift](./leetcode/1598/crawlerLogFolder.swift)|Easy|💙|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/380/insertDeleteGetRandom.py) [Swift](./leetcode/380/insertDeleteGetRandom.swift)|Medium|💙|
 |135|[Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/135/candy.py) [Swift](./leetcode/135/candy.swift)|Hard|💙|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/42/trappingRainWater.py) [Swift](./leetcode/135/trappingRainWater.swift)|Hard|🩷|
 
 
 Programmers

@@ -31,6 +31,9 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/42/trappingRainWater.py) [Swift](./leetcode/42/trappingRainWater.swift)|Hard|🩷|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/13/romanToInteger.py) [Swift](./leetcode/13/romanToInteger.swift)|Easy|💛|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/12/integerToRoman.py) [Swift](./leetcode/12/integerToRoman.swift)|Easy|💛|
+|28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/28/findTheIndex.py) [Swift](./leetcode/28/findTheIndex.swift)|Easy|💛|
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/6/zigzagConversation.py) [Swift](./leetcode/6/zigzagConversation.swift)|Medium|💙|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/14/longestCommonPrefix.py) [Swift](./leetcode/14/longestCommonPrefix.swift)|Easy|💛|
 
 
 Programmers

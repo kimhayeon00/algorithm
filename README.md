@@ -34,6 +34,7 @@ LeetCode
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/28/findTheIndex.py) [Swift](./leetcode/28/findTheIndex.swift)|Easy|💛|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/6/zigzagConversation.py) [Swift](./leetcode/6/zigzagConversation.swift)|Medium|💙|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/14/longestCommonPrefix.py) [Swift](./leetcode/14/longestCommonPrefix.swift)|Easy|💛|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/68/textJustification.py)|Hard|❤️‍🔥|
 
 
 Programmers

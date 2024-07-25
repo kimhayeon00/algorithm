@@ -35,7 +35,7 @@ LeetCode
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/6/zigzagConversation.py) [Swift](./leetcode/6/zigzagConversation.swift)|Medium|💙|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/14/longestCommonPrefix.py) [Swift](./leetcode/14/longestCommonPrefix.swift)|Easy|💛|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/68/textJustification.py)|Hard|❤️‍🔥|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/125/validPalindrome.py)|[Swift](./leetcode/125/validPalindrome.swift)|Easy|💛|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/125/validPalindrome.py)[Swift](./leetcode/125/validPalindrome.swift)|Easy|💛|
 
 
 Programmers

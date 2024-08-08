@@ -39,6 +39,14 @@ LeetCode
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/167/twoSum.py) [Swift](./leetcode/167/twoSum.swift)|Medium|💛|
 |15|[3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [Swift](./leetcode/15/3Sum.swift)|Medium|💛|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [Swift](./leetcode/209/minimumSizeSubarraySum.swift)|Medium|💙|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan-v2&envId=top-interview-150) | [Swift](./leetcode/3/longestSubstringWithoutRepeatingCharacters.swift)|Medium|❤️‍🔥|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/30/substringWithConcatenationOfAllWords.py)|Hard|💙|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/76/minimumWindowSubstring.py)|Hard|❤️‍🔥|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/36/validSudoku.py)|Medium|💙|
+
+
+
+
 
 
 Programmers

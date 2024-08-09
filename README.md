@@ -43,6 +43,7 @@ LeetCode
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/30/substringWithConcatenationOfAllWords.py)|Hard|💙|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/76/minimumWindowSubstring.py)|Hard|❤️‍🔥|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/36/validSudoku.py) [Swift](./leetcode/36/validSudoku.swift)|Medium|💙|
+|54|[Spiral Matrix]https://leetcode.com/problems/spiral-matrix/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/54/spiralMatrix.py) [Swift](./leetcode/54/spiralMatrix.swift)|Medium|💙|
 
 
 

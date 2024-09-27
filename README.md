@@ -45,7 +45,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/36/validSudoku.py) [Swift](./leetcode/36/validSudoku.swift)|Medium|💙|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/54/spiralMatrix.py) [Swift](./leetcode/54/spiralMatrix.swift)|Medium|💙|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/48/rotateImage.py) [Swift](./leetcode/48/rotateImage.swift)|Medium|💛|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/383/ransomNote.py) |Easy|💛|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/383/ransomNote.py) [Swift](./leetcode/383/ransomNote.swift) |Easy|💛|
 
 
 
